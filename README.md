@@ -1,4 +1,7 @@
 # Sandwich Club Project 
+## Download Link
+https://goo.gl/K6jzYE
+
 ## Project Overview
 In this project, I completed the **Sandwich Club** app to
 show the details of each sandwich once it is selected.
@@ -18,7 +21,7 @@ Through this project, I:
 - Populated all fields in the layout accordingly
 
 ## How Did I Complete this Project?
-i Downloaded the [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
+I Downloaded the [Sandwich Club app starter code.](https://github.com/udacity/sandwich-club-starter-code)
 
 Designed the layout for the detail activity so the different elements
 display in a sensible way. Implemented the JSON parsing in JsonUtils so it
